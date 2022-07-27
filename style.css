@@ -1,0 +1,27 @@
+.color-primary {
+    color:rgb(23, 29, 205);
+}
+
+.font-50{
+    font-size:50px;
+}
+
+.select-style1{
+    height: 40px; font: size 20px; color:rgb(112, 188, 117);
+}
+
+.tb-head > tr >td {
+    border: 1px solid #000;
+    font-size:20px;
+    font-weight:bold;
+}
+p{
+    background: yellowgreen;
+    color:#000;
+}
+
+.tb-body > tr >td {
+    border: 1px solid #000;
+    font-size:20px;
+    
+}
